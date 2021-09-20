@@ -1,2 +1,5 @@
 # Welcome to CS135
-* Hi po.
+* Name: Charles Vicnent A. Cordial
+* Hometown: Alicia, Isabela
+* Why you chose CMSC? Nasilaw sa pera po.
+
